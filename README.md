@@ -13,7 +13,11 @@ Features
 
 Screenshots
 
+![Simulator Screenshot - iPhone 16 - 2024-11-26 at 09 06 44](https://github.com/user-attachments/assets/13090efc-72d6-4ac4-bbde-b905529b551a)
 
+![400x800bb-4](https://github.com/user-attachments/assets/a48c8790-cc3a-4a0a-bfb1-9e696b457063)
+
+![400x800bb-5](https://github.com/user-attachments/assets/652b3a41-306a-45a4-8329-4a5510d2530a)
 
 Installation
 

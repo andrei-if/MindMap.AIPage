@@ -2,6 +2,9 @@
 
 An intuitive iOS app designed to help you create, edit, and share mind maps effortlessly. Organize your thoughts, plan projects, and brainstorm ideas with a user-friendly interface.
 
+**Where to get it**
+https://apps.apple.com/us/app/mindmap-ai/id6738013218
+
 **Features**
 
 	•	Easy Creation: Quickly add nodes and branches with simple gestures.
